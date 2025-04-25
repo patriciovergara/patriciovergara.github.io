@@ -53,7 +53,7 @@ Este proyecto está disponible en:
 
 | Página principal | Portafolio |
 |------------------|------------|
-| ![cv](assets/images/cv.png) | ![proyectos](assets/images/landingpage.png) |
+| ![cv](assets/images/CV.png) | ![proyectos](assets/images/landing.png) |
 
 ---
 
