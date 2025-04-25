@@ -59,7 +59,7 @@ Este proyecto está disponible en:
 
 ## 📬 Contacto
 
-- **Email:** patriciovergara.dev@gmail.com  
+- **Email:** peduardovm@gmail.com  
 - **LinkedIn:** [linkedin.com/in/patricio-vergara-11230b193](https://www.linkedin.com/in/patricio-vergara-11230b193)
 
 ---
