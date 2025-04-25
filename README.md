@@ -53,13 +53,13 @@ Este proyecto está disponible en:
 
 | Página principal | Portafolio |
 |------------------|------------|
-| ![cv](assets/images/CV.png) | ![proyectos](assets/images/landing.png) |
+| ![cv](https://github.com/patriciovergara/patriciovergara.github.io/blob/main/assets/img/CV.png?raw=true) | ![proyectos](https://github.com/patriciovergara/patriciovergara.github.io/blob/main/assets/img/Landing.png?raw=true) |
 
 ---
 
 ## 📬 Contacto
 
-- **Email:** peduardovm@gmail.com  
+- **Email:** patriciovergara.dev@gmail.com  
 - **LinkedIn:** [linkedin.com/in/patricio-vergara-11230b193](https://www.linkedin.com/in/patricio-vergara-11230b193)
 
 ---
